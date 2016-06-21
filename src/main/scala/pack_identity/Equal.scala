@@ -11,4 +11,8 @@ object Equal extends App{
     println("string equal true")
   }
 
+  1 assert_=== 1
+  "1" assert_=== "1"
+  true assert_=== true
+  false assert_=== false
 }
