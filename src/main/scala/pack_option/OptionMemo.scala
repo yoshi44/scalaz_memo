@@ -1,6 +1,6 @@
-package pack_option_w
+package pack_option
 
-object OptionWMemo extends App{
+object OptionMemo extends App{
 
   val x: Option[String] = Option("OptionTest")
   val y = x match {
